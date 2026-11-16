@@ -1,6 +1,24 @@
 # Vishal Fitness — Mobile Application
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo_SDK_51-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge" alt="License" />
+</p>
+
 Cross-platform mobile application for Vishal Fitness gym members and trainers, built with React Native and Expo.
+
+---
+
+## 🌐 Vishal Fitness Ecosystem
+
+This repository is the mobile client of the Vishal Fitness multi-platform suite:
+- 💻 **Web Application & Admin Portal:** [siddhantvani/Vishal-Fitness-web](https://github.com/siddhantvani/Vishal-Fitness-web)
+- 📱 **Mobile Application:** [siddhantvani/Vishal-Fitness-Mobile](https://github.com/siddhantvani/Vishal-Fitness-Mobile) *(Current Repository)*
+- ⚙️ **Backend REST API:** [siddhantvani/Vishal-Fitness-Backend](https://github.com/siddhantvani/Vishal-Fitness-Backend)
 
 ---
 
